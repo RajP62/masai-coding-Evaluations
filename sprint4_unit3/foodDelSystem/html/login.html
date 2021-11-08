@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="../build/style.css">
+</head>
+<body>
+    <div class="w-4/5 m-auto select-none bg-blue-200 pb-40 rounded">
+        <h1 class="text-bold text-center">Login Authentication</h1>
+        <form onsubmit="loginUser(event)" class="form">
+            <input class="block border border-black rounded my-5 m-auto" type="text" name="username" placeholder="UserName">
+            <input class="block border border-black rounded my-5 m-auto" type="password" name="password" placeholder="Password">
+            <input type="submit" class="rounded block m-auto bg-blue-600 text-white font-bold p-2">
+        </form>
+    </div>
+
+    <script src="../scripts/login.js"></script>
+</body>
+</html>
