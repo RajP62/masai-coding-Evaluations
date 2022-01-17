@@ -1,0 +1,30 @@
+{
+  "clients": [
+    {
+      "name": "Rajesh",
+      "token": "8d5a407d-3458-4f98-8943-b519e6614973",
+      "email": "rajesh4151999@gmail.com",
+      "password": "xyz",
+      "id": 1
+    }
+  ],
+  "admins": [],
+  "jobs": [
+    {
+      "companyname": "Masia",
+      "title": "kajhf",
+      "salary": "sdjfk",
+      "location": "kjlkj",
+      "type": "kjlkjkj",
+      "id": 1
+    },
+    {
+      "companyname": "Masai",
+      "title": "Instructor",
+      "salary": "800000",
+      "location": "Beng",
+      "type": "any",
+      "id": 2
+    }
+  ]
+}
