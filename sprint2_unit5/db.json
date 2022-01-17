@@ -1,0 +1,19 @@
+{
+  "recipies": [
+    {
+      "title": "Any",
+      "ingredients": "ksdjkds",
+      "timetocook": "10",
+      "image": "https://i.imgur.com/uUv78vw.png",
+      "id": 1
+    },
+    {
+      "title": "New ",
+      "ingredients": "Maida, soyabeen",
+      "timetocook": "9",
+      "image": "https://i.imgur.com/Y48Qq3A.png",
+      "instructions": "Nothig",
+      "id": 2
+    }
+  ]
+}
